@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>123</id>
+    <name>Smartphone X</name>
+    <price>799.99</price>
+    <category>Electronics</category>
+    <description>A powerful and stylish smartphone.</description>
+  </product>
+  <product>
+    <id>456</id>
+    <name>Laptop Pro</name>
+    <price>1299.00</price>
+    <category>Computers</category>
+  </product>
+  <product>
+    <id>789</id>
+    <name>Wireless Headphones</name>
+    <price>149.50</price>
+    <category>Audio</category>
+  </product>
+  <product>
+    <id>101</id>
+    <name>Tablet</name>
+    <price>399.99</price>
+    <category>Electronics</category>
+  </product>
+    <product>
+    <id>102</id>
+    <name>Smartwatch</name>
+    <price>249.99</price>
+    <category>Wearable Tech</category>
+  </product>
+  <product>
+    <id>103</id>
+    <name>Camera</name>
+    <price>499.00</price>
+    <category>Photography</category>
+  </product>
+  <product>
+    <id>-104</id>  <name>Gaming Mouse</name>
+    <price>75.00</price>
+    <category>Gaming</category>
+  </product>
+    <product>
+    <id>105</id>
+    <name>External Hard Drive</name>
+    <price>-100.00</price> <category>Storage</category>
+  </product>
+</products>
